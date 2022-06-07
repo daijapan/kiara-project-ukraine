@@ -4,6 +4,11 @@ We try to support people in Ukraine  : ウクライナ支援プロジェクト
 HP:
 https://www.kiaraso.com/stand-with-ukraine
 
+Current Project / Tasks / Discussions : 
+https://github.com/daijapan/kiara-project-ukraine/issues
+(please see and leave your comment after signing up at www.github.com You will get email update)
+
+
 We have a passion to protect our peace, freedom and security.
 Japan is known as the most peaceful place in the world.
 Also, we are known as the country of hospitality.
