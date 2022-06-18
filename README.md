@@ -10,12 +10,13 @@ Intentamos apoyar a la gente de Ucrania<br>
 
 HP:<br>
 https://www.kiaraso.com/stand-with-ukraine<br><br>
+https://github.com/daijapan/kiara-project-ukraine/discussions
 
 Current Project / Tasks / Discussions : <br>
 現在のプロジェクト/タスク/ディスカッション: <br>
 当前项目/任务/讨论 : <br>
 Proyecto actual / Tareas / Discusiones : <br>
-https://github.com/daijapan/kiara-project-ukraine/issues<br>
+[https://github.com/daijapan/kiara-project-ukraine/issues](https://github.com/daijapan/kiara-project-ukraine/discussions)<br>
 (please see and leave your comment after signing up at www.github.com You will get email update)<br>
 (サインアップ後、www.github.com をご覧いただき、コメントを残してください。メールで最新情報をお届けします。) <br>
 (请在www.github.com 注册后看到并留下您的评论，您将会收到电子邮件的更新)<br>
