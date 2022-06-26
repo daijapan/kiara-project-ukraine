@@ -10,6 +10,7 @@ Intentamos apoyar a la gente de Ucrania<br>
 
 HP:<br>
 https://www.kiaraso.com/stand-with-ukraine<br><br>
+→　Discussionを読んでくださいませ(NPO Beautiful Worldさんとの対話)
 https://github.com/daijapan/kiara-project-ukraine/discussions
 
 Current Project / Tasks / Discussions : <br>
